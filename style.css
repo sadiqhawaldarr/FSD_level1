@@ -1,0 +1,28 @@
+.main{
+  width: 100%;
+background:url(report.jpeg);
+background-position: center;
+background-size: cover;
+height: 109vh;
+}
+
+.body{
+  background-color: rgb(153, 151, 149);
+}
+
+.one{
+  width: 20%;
+  height: 100%;
+  float: left;
+  background-color: rgb(212, 216, 230);
+
+}
+
+.two{
+  width: 80%;
+  float: left;
+  background-color: rgb(215, 231, 245)
+}
+.ribben{
+  text-decoration: none;
+}
